@@ -1,0 +1,1 @@
+function aa() { return 'a'.repeat((Math.ceil(Math.random() * 100.0) + 1)); }
